@@ -1,0 +1,7 @@
+.idea
+*.json
+*.so
+/build/*
+*/build/*
+.DS_Store
+final_result2.json
